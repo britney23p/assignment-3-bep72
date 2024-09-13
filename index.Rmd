@@ -1,0 +1,24 @@
+## Britney's Website
+
+</br>
+
+Britney Pepper: https://github.com/britney23p
+
+Heather (Hopper) Galloway: https://github.com/heatherhops2it 
+
+</br>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library(rmarkdown)
+library(dplyr)
+library(tidyverse)
+```
+
+
+
+![Here is Bella!](/Users/britneypepper/Desktop/NTRES 6100/assignment-3-bep72/IMG_8703.jpg)
+
+
+
